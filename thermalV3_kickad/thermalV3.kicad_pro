@@ -663,12 +663,7 @@
     "top_level_sheets": [
       {
         "filename": "thermalV3.kicad_sch",
-        "name": "purethermal2_brd",
-        "uuid": "e4b0dc99-4982-45d0-9af1-2fbfb66b2e70"
-      },
-      {
-        "filename": "sch_thm_v3.kicad_sch",
-        "name": "sch_thm_v3",
+        "name": "thermalV3",
         "uuid": "81d89aa5-b2a5-417b-a9d6-6af80360f253"
       },
       {
@@ -682,12 +677,8 @@
   },
   "sheets": [
     [
-      "e4b0dc99-4982-45d0-9af1-2fbfb66b2e70",
-      "purethermal2_brd"
-    ],
-    [
       "81d89aa5-b2a5-417b-a9d6-6af80360f253",
-      "sch_thm_v3"
+      "thermalV3"
     ],
     [
       "c33b4cef-6361-46a7-8a6d-a2c0d88891b5",
