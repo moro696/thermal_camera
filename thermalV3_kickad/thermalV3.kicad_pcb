@@ -13381,8 +13381,8 @@
 		(uuid "97efa61d-5a22-4c54-9dbd-3eefdc98d259")
 		(at 132.3486 110.2071 90)
 		(descr "Chip Capacitor, 2-Leads, Body 3.20x2.50mm, IPC High Density")
-		(property "Reference" "REF**"
-			(at 0 -2.225 90)
+		(property "Reference" "C43"
+			(at 0 3 90)
 			(layer "F.SilkS")
 			(uuid "aa260252-9664-4ec3-80d7-9b8993a5df87")
 			(effects
@@ -13393,8 +13393,9 @@
 			)
 		)
 		(property "Value" "CAP1210"
-			(at 0 2.225 90)
+			(at 1.5 3 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "e0ecaa72-2afe-44a8-82be-67a95922cb77")
 			(effects
 				(font
